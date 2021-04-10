@@ -16,7 +16,7 @@ module.exports = appInfo => {
   config.keys = appInfo.name + '_1614849912173_6065';
 
   // add your middleware config here
-  config.middleware = ["smcFilter"];
+  config.middleware = ["glabolFilter"];
 
   // add your user config here
   const userConfig = {
