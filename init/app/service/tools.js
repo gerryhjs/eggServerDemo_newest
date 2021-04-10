@@ -2,7 +2,7 @@
 const Service = require('egg').Service;
 const crypto = require('crypto');
 // const convert = require('xml-js');
-const xml2js = require('xml2js');
+// const xml2js = require('xml2js');
 const os = require('os');
 
 ///获取本机ip///
